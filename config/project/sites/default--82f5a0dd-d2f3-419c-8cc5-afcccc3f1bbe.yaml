@@ -1,0 +1,8 @@
+baseUrl: $PRIMARY_SITE_URL
+handle: default
+hasUrls: true
+language: en-US
+name: mystic-cow
+primary: true
+siteGroup: 84778d4c-efe1-4674-b63c-6e4ff1a6d7e8 # mystic-cow
+sortOrder: 1

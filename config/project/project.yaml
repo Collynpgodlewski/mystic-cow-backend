@@ -1,0 +1,22 @@
+dateModified: 1707493441
+email:
+  fromEmail: collyngodlewski@gmail.com
+  fromName: mystic-cow
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    15a458bb-3ae3-409e-8ae5-38ff481eb94d: Common # Common
+    82f5a0dd-d2f3-419c-8cc5-afcccc3f1bbe: mystic-cow # mystic-cow
+    84778d4c-efe1-4674-b63c-6e4ff1a6d7e8: mystic-cow # mystic-cow
+system:
+  edition: solo
+  live: true
+  name: mystic-cow
+  schemaVersion: 4.5.3.0
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true
