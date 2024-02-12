@@ -1,4 +1,4 @@
-dateModified: 1707493441
+dateModified: 1707510586
 email:
   fromEmail: collyngodlewski@gmail.com
   fromName: mystic-cow
@@ -8,6 +8,11 @@ meta:
     15a458bb-3ae3-409e-8ae5-38ff481eb94d: Common # Common
     82f5a0dd-d2f3-419c-8cc5-afcccc3f1bbe: mystic-cow # mystic-cow
     84778d4c-efe1-4674-b63c-6e4ff1a6d7e8: mystic-cow # mystic-cow
+plugins:
+  element-api:
+    edition: standard
+    enabled: true
+    schemaVersion: 1.0.0
 system:
   edition: solo
   live: true
